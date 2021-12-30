@@ -26,9 +26,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudhjak06&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anirudh's GitHub Stats" />
 <br>
 
- <br>
+ <!-- <br>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhjak06&show_icons=true&locale=en&layout=compact" alt="anirudhjak06" /></p>
- <br>
+ <br> -->
 
 <br>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjak06&theme=blue-green" alt="anirudhjak06" /></p>
