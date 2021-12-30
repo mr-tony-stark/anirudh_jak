@@ -2,16 +2,16 @@
 I am a quick learner... 
 
 <br>
-<div>A third year undergrad, pursuing B-Tech in CSE from IIIT Sri City. Seeking a challenging career with a progressive organization that provides an opportunity to ameliorate my technical skills and abilities in the field of Computer Science.</div>
+<div> I am a third year undergrad, pursuing B-Tech in CSE from IIIT Sri City. I love competitive programming and am also very interested in AI/ML. I am very interested in learning new technological areas and exploring many fields. I am seeking a challenging career with a progressive organization that provides an opportunity to enhance my technical skills.</div>
 <br>
  
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey)
 
 <h3 align="left"> 📫 Connect with me:</h3>
  <p align="left">
-  <a target="_blank"href="https://www.linkedin.com/in/siddharth25pandey/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/siddharth_iiit"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:siddharth25pandey@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/anirudhjak06/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/JakhotiaAnirudh"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:siddharth25pandey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
  <br>
 <h3 align="left">Coding Platforms</h3>
