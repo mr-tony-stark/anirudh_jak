@@ -33,12 +33,14 @@
   <a target="_blank"href="https://twitter.com/JakhotiaAnirudh"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
  </p>
+ <hr>
 
  <h2 align="center">Github Trophies</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=anirudhjak06&theme=darkhub">
 </p>
  <br>
+ <hr>
 <h3 align="left">Coding Platforms</h3>
  <p align="left">
  <a href="https://leetcode.com/anirudhjak06/"><img src="https://miro.medium.com/max/1400/1*nFgF8PFbUBqaRVijajytog.jpeg" alt="Smiley face" height ="100" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,6 +49,7 @@
 <a href="https://codeforces.com/profile/anirudhjak06"><img src="https://codeforces.com/predownloaded/5e/dc/5edc32f14ac7809b412e8a4557741b5f2c7c09d4.png" alt="Smiley face" height="100" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+<hr>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -76,7 +79,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anirudhjak06&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjak06&layout=compact&theme=gotham" alt="languages" height="165">
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhjak06&layout=compact&theme=gotham" alt="sxmeer-ahmed" /></p>
-<p align="center">
- <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
-</p>
 <hr>
