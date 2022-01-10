@@ -24,12 +24,9 @@
   <img align="center" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400px" />
  
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey)
+<br>
 
-<h2 align="center">Github Trophies</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anirudhjak06&theme=darkhub">
-</p>
-</br>  
+<br>  
 
 
 <h3 align="left"> 📫 Connect with me:</h3>
@@ -39,6 +36,11 @@
   <a target="_blank"href="https://twitter.com/JakhotiaAnirudh"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
  </p>
+
+ <h2 align="center">Github Trophies</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anirudhjak06&theme=darkhub">
+</p>
  <br>
 <h3 align="left">Coding Platforms</h3>
  <p align="left">
