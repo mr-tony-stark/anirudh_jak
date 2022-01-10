@@ -19,8 +19,18 @@
 - ⚛️ I ❤️ ML
 - 👷🏽‍♂️Looking for Opportunities
 
+### I'm Currently
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400px" />
  
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey)
+
+<h2 align="center">Github Trophies</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anirudhjak06&theme=darkhub">
+</p>
+</br>  
+
 
 <h3 align="left"> 📫 Connect with me:</h3>
  <p align="left">
