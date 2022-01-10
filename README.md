@@ -23,7 +23,7 @@
 
   <img align="center" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400px" />
  
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey)
+<!-- ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey) -->
 <br>
 <hr>
 <h3 align="left"> 📫 Connect with me:</h3>
@@ -80,5 +80,12 @@
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhjak06&layout=compact&theme=gotham" alt="Anirudh" /></p>
 <hr>
+
+<p align="center"> 
+   Visitor Count
+ <br/>
+  <img src="https://profile-counter.glitch.me/anirudhjak06/count.svg" />
+</p>
+
 <img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
