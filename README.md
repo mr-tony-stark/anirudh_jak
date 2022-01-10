@@ -25,10 +25,7 @@
  
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey)
 <br>
-
-<br>  
-
-
+<hr>
 <h3 align="left"> 📫 Connect with me:</h3>
  <p align="left">
  <a href="mailto:jakhotiaanirudh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,14 +70,13 @@
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
 
-<a href="https://github.com/anirudhjak06/anirudhjak06">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudhjak06&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anirudh's GitHub Stats" />
-<br>
-
- <!-- <br>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhjak06&show_icons=true&locale=en&layout=compact" alt="anirudhjak06" /></p>
- <br> -->
-
-<br>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjak06&theme=blue-green" alt="anirudhjak06" /></p>
- <br>
+<hr>
+<h2 align="center">Github Statistics</h2>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=anirudhjak06&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjak06&layout=compact&theme=gotham" alt="languages" height="165">
+</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhjak06&layout=compact&theme=gotham" alt="sxmeer-ahmed" /></p>
+<p align="center">
+ <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
+</p>
+<hr>
