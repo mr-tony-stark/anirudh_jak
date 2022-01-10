@@ -41,7 +41,7 @@
 </p>
  <br>
  <hr>
-<h3 align="left">Coding Platforms</h3>
+<h3 align="left">Coding Platforms:</h3>
  <p align="left">
  <a href="https://leetcode.com/anirudhjak06/"><img src="https://miro.medium.com/max/1400/1*nFgF8PFbUBqaRVijajytog.jpeg" alt="Smiley face" height ="100" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.hackerrank.com/anirudhjak06"><img src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" alt="Smiley face" height ="100" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
