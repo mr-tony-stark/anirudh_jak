@@ -18,6 +18,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Anirudh!;I'm+a+Software+Developer.;❤+CPP+Java+LeetCode+;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
 
+<br>
+<hr>
+
 <h1>I'm Anirudh Jakhotia</h1>
 
 <div> I am a third year undergrad, pursuing B-Tech in CSE from IIIT Sri City. I love competitive programming and am also very interested in AI/ML. I am very interested in learning new technological areas and exploring many fields. I am seeking a challenging career with a progressive organization that provides an opportunity to enhance my technical skills.</div>
