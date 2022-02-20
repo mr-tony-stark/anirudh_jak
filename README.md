@@ -47,7 +47,7 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=anirudhjak06&theme=darkhub">
 </p> -->
-## 🏆 GitHub Trophy
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
 
  <br>
@@ -56,8 +56,8 @@
 <h3 align="left">Coding Platforms:</h3>
  <p align="left">
  <a href="https://leetcode.com/anirudhjak06/"><img src="https://miro.medium.com/max/1400/1*nFgF8PFbUBqaRVijajytog.jpeg" alt="Smiley face" height ="100" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.hackerrank.com/anirudhjak06"><img src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" alt="Smiley face" height ="100" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.codechef.com/users/anirudhjak06"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="200">
+ <a href="https://www.hackerrank.com/anirudhjak06"><img src="https://s3.amazonaws.com/sr-marketplace-prod/wp-content/uploads/2015/08/hackerrank.jpg" alt="Smiley face" height ="100" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/anirudhjak06"><img src="https://codeforces.com/predownloaded/5e/dc/5edc32f14ac7809b412e8a4557741b5f2c7c09d4.png" alt="Smiley face" height="100" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
@@ -90,6 +90,8 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=anirudhjak06&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjak06&layout=compact&theme=gotham" alt="languages" height="165">
 </p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhjak06&layout=compact&theme=gotham" alt="Anirudh" /></p>
 <hr>
 
