@@ -27,7 +27,7 @@
 - ⚛️ I ❤️ Full Stack Development
 - ⚛️ I ❤️ ML
 - 👷🏽‍♂️Looking for Opportunities
-- ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
+- ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day.**
 
 ### I'm Currently
 
@@ -109,7 +109,5 @@
   <img src="https://profile-counter.glitch.me/anirudhjak06/count.svg" />
 </p>
 
-
 <img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-
