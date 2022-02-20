@@ -86,7 +86,7 @@
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
 
 <hr>
-<h2 align="center">Github Statistics</h2>
+<h2 align="left">Github Statistics</h2>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=anirudhjak06&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjak06&layout=compact&theme=gotham" alt="languages" height="165">
 </p>
@@ -96,6 +96,10 @@
 
 <hr>
 
+## Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/anirudhjak06/anirudhjak06/blob/output/github-contribution-grid-snake.gif)
+
+<hr>
 
 <p align="center"> 
    Visitor Count
@@ -103,5 +107,10 @@
   <img src="https://profile-counter.glitch.me/anirudhjak06/count.svg" />
 </p>
 
+
+
 <img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
+
+### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
+
