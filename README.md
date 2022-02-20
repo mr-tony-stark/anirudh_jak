@@ -1,7 +1,5 @@
-# Anirudh Jakhotia
-
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPER'S</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPERS</h1>
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
 
 <br>
@@ -16,7 +14,7 @@
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Himanshu!;I'm+a+Software+Developer.;❤+Java+LeetCode+Kotlin;I+❤+DSA..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Anirudh!;I'm+a+Software+Developer.;❤+CPP+Java+LeetCode+;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
 
 
