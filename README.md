@@ -1,6 +1,9 @@
 # Anirudh Jakhotia
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPER'S</h1>
+<h3 align="center">I'm a passionate Software Developer from India.</h3>
+
 <br>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
@@ -9,6 +12,12 @@
 </p>
 <h1>I'm Anirudh Jakhotia</h1>
 <p align="left">
+<div align="center">
+  
+  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Himanshu!;I'm+a+Software+Developer.;❤+Java+LeetCode+Kotlin;I+❤+DSA..)](https://git.io/typing-svg)
+</div>
 
 
 <div> I am a third year undergrad, pursuing B-Tech in CSE from IIIT Sri City. I love competitive programming and am also very interested in AI/ML. I am very interested in learning new technological areas and exploring many fields. I am seeking a challenging career with a progressive organization that provides an opportunity to enhance my technical skills.</div>
