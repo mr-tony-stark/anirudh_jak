@@ -90,10 +90,12 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=anirudhjak06&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhjak06&layout=compact&theme=gotham" alt="languages" height="165">
 </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhjak06&layout=compact&theme=gotham" alt="Anirudh" /></p>
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhjak06&layout=compact&theme=gotham" alt="Anirudh" /></p>
 <hr>
+
 
 <p align="center"> 
    Visitor Count
