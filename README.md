@@ -9,7 +9,6 @@
 </p>
 
 <p align="left">
-<br>
 <hr>
 <div align="center">
   
@@ -17,8 +16,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Anirudh!;I'm+a+Software+Developer.;❤+CPP+Java+LeetCode+;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
-
-<br>
 <hr>
 
 <h1>I'm Anirudh Jakhotia</h1>
