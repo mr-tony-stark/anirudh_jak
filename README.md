@@ -25,6 +25,7 @@
 - ⚛️ I ❤️ Full Stack Development
 - ⚛️ I ❤️ ML
 - 👷🏽‍♂️Looking for Opportunities
+- ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
 
 ### I'm Currently
 
@@ -42,12 +43,16 @@
  </p>
  <hr>
 
- <h2 align="center">Github Trophies</h2>
+ <!-- <h2 align="center">Github Trophies</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=anirudhjak06&theme=darkhub">
-</p>
+</p> -->
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
+
  <br>
  <hr>
+
 <h3 align="left">Coding Platforms:</h3>
  <p align="left">
  <a href="https://leetcode.com/anirudhjak06/"><img src="https://miro.medium.com/max/1400/1*nFgF8PFbUBqaRVijajytog.jpeg" alt="Smiley face" height ="100" width="200"></a>&nbsp;&nbsp;&nbsp;&nbsp;
