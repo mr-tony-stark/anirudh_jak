@@ -21,7 +21,7 @@
 
 <h1>I'm Anirudh Jakhotia</h1>
 
-<div> I am a third year undergrad, pursuing B-Tech in CSE from IIIT Sri City. I love competitive programming and am also very interested in AI/ML. I am very interested in learning new technological areas and exploring many fields. I am seeking a challenging career with a progressive organization that provides an opportunity to enhance my technical skills.</div>
+<div> I am a final year undergrad, pursuing B-Tech in CSE from IIIT Sri City. I love competitive programming and am also very interested in AI/ML. I am very interested in learning new technological areas and exploring many fields. I am seeking a challenging career with a progressive organization that provides an opportunity to enhance my technical skills.</div>
 <br>
 
 - 📚 Competitive Coder
